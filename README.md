@@ -32,4 +32,6 @@ Etant féru d'informatique depuis sa découverte j'ai aussi pu acquérir de l'ex
 
 *La technologie à énormément évolué et s'est répendu dans tous les moeurs et a conquis tous les âges, et nous la trouvons dans toutes les disciplines. La robotique à finit par remplacer l'homme dans de nombreuse fonctions qu'il occupait, maintenant c'est à l'IA de faire son nivellement...*
 
-En freelance
+En freelance, je me maintient dans la profession en produisant pour des particuliers, associations, et sur mes divers projets persos, mais aussi en accompagnant un fablab' qui recelle de projet dans lesquelles il est possible de pouvoir y mettre du sien :
+- Photobooth
+
