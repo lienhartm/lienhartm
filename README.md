@@ -16,7 +16,9 @@ Je suis de même un grand admirateur de robotique  donc je m'aventure sur quelqu
 D'autres petits travaux ont été rendu pour des associations comme :
 - Questionnaire - Association Caritas - HTML,CSS,JS,PHP,SQL
 - Gestion administrative - Génération Mouvement 68 - HTML,CSS,JS
+
 Un challenge nommé EPICUR fait comme je l'entendais est un petit diaporama accompagné par de la musique faisant paraître photos, logos, mais aussi des scènes animées en CSS présentant la formation 4.0 de l'UHA.
+
 Puis des projet personnel comme :
 - Website : Délices de nos rivières
 - Jeu : Survivor
