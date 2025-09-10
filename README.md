@@ -11,7 +11,7 @@ La phase deux en cours est l'objet du travail de refactoring complet du site **E
 - Interaction : éviter des pages trop longue à lire par la mise en place d'une gestion d'affichage.
 - Architecture : mise en place d'une architecture de type MVC pour amélioré l'utilisation de composant rebondant.
 
-Je suis de même un grand admirateur de robotique  donc je m'aventure sur quelque projet personel de se côté (Lidar, bras articulé, motorisation, ...) ainsi que les microcontrôleurs comme *Arduino, ESP32, ESP8266, les XIAO, epapers, etc ....
+Je suis de même un grand admirateur de robotique  donc je m'aventure sur quelque projet personel de se côté (Lidar, bras articulé, motorisation, ...) ainsi que les microcontrôleurs comme Arduino, ESP32, ESP8266, XIAO, etc ....
 
 D'autres petits travaux ont été rendu pour des associations comme :
 - Questionnaire - Association Caritas - HTML,CSS,JS,PHP,SQL
