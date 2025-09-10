@@ -24,11 +24,18 @@ Puis des projet personnel comme :
 - Jeu : Survivor
 
 Etant féru d'informatique depuis sa découverte j'ai aussi pu acquérir de l'expérience au travers de formation :
-- CNAM : webmestre junior
-- UHA4.0 : développement logiciel en mode gestion de projet
-- FABLAB : impression 3D, DAO, ...
-- ELAN : développement web et web mobile
-- STUDI : graduate technicien supérieur système et réseaux
+- [CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) : webmestre junior
+- [UHA4.0](https://www.fst.uha.fr/index.php/du/) : développement logiciel en mode gestion de projet
+- [FABLAB](https://technistub.org/) : impression 3D, DAO, ...
+- [ELAN](https://elan-formation.fr/accueil) : développement web et web mobile
+- [STUDI](https://www.studi.com/fr) : graduate technicien supérieur système et réseaux
+
+Et bien sûr pour rester en forme sur les languages informatiques :
+- [W3School](https://www.w3schools.com/)
+- [CodeCademy](https://www.codecademy.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Sololearn](https://www.sololearn.com/fr/)
+- [Mimo](https://mimo.org/)
 
 *La technologie à énormément évolué et s'est répendu dans tous les moeurs et a conquis tous les âges, et nous la trouvons dans toutes les disciplines. La robotique à finit par remplacer l'homme dans de nombreuse fonctions qu'il occupait, maintenant c'est à l'IA de faire son nivellement...*
 
