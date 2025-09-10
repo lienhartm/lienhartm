@@ -1,6 +1,6 @@
 Bonjour voivi mon profil qui devrai bientôt être lisible ... Mon site de présentation est aussi en travaux avant sa publication [*](https://lienhart-michael.dynamic-dns.net)
 
-Pour l'instant est visible uniquement le projet en cours de développement **EasyBetMe** qui est la deuxième phase de développement.
+Pour l'instant je me forme en système et réseaux et aussi sur le projet qui est en cours de développement **EasyBetMe** qui se trouve être la deuxième phase de développement.
 La première étant été le développement des fonctionnalitées de jeu, de gestion de cadeaux, de mise à disposition d'informations concernant les compétitions, les matches, les classements des équipes, du classement des meilleurs joueurs et d'une page réservée à l'actualité du football. La gestion administrateur à été simplifié avec l'utilisation d'API ainsi que la gestion automatique de fichiers, des données colectées, des gains des joueurs, des newsletters, et des cadeaux.
 En ligne sur la toile d'internet ce site est disponible à cette l'url : [EasyBetMe](https://www.easybet.me)
 Le développement de fonctionnalité au mépris du refactoring à justement la vocation d'avoir un site fonctionnel en vue de pouvoir acquérir le ressenti des utilisateurs.
