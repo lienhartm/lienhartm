@@ -39,8 +39,9 @@ Et bien sûr pour rester en forme sur les languages informatiques :
 - [RootMe](https://www.root-me.org/)
 - [Netacad](https://www.netacad.com/)
 
-*La technologie à énormément évolué et s'est répendu dans tous les moeurs et a conquis tous les âges, et nous la trouvons dans toutes les disciplines. La robotique à finit par remplacer l'homme dans de nombreuse fonctions qu'il occupait, maintenant c'est à l'IA de faire son nivellement...*
+*La technologie a énormément évolué et s'est répandue dans toutes les sphères de la société, s'intégrant aux mœurs et traversant les générations. On la retrouve aujourd'hui dans toutes les disciplines. Après que la robotique a remplacé l'homme dans de nombreuses fonctions physiques, c’est désormais à l’intelligence artificielle d’opérer son propre nivellement, cette fois sur le plan cognitif....*
 
 En freelance, je me maintient dans la profession en produisant pour des particuliers, associations, et sur mes divers projets persos, mais aussi en accompagnant un fablab' qui recelle de projet dans lesquelles il est possible de pouvoir y mettre du sien :
+- MakerFight
 - Photobooth
 
