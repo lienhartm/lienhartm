@@ -36,6 +36,8 @@ Et bien sûr pour rester en forme sur les languages informatiques :
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Sololearn](https://www.sololearn.com/fr/)
 - [Mimo](https://mimo.org/)
+- [RootMe](https://www.root-me.org/)
+- [Netacad](https://www.netacad.com/)
 
 *La technologie à énormément évolué et s'est répendu dans tous les moeurs et a conquis tous les âges, et nous la trouvons dans toutes les disciplines. La robotique à finit par remplacer l'homme dans de nombreuse fonctions qu'il occupait, maintenant c'est à l'IA de faire son nivellement...*
 
