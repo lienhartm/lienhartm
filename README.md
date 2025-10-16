@@ -1,27 +1,18 @@
 Bonjour voivi mon profil qui devrai bientôt être lisible ... Mon site de présentation est aussi en travaux avant sa publication [*](https://lienhart-michael.dynamic-dns.net)
 
-Pour l'instant je me forme en système et réseaux et aussi sur le projet qui est en cours de développement **EasyBetMe** qui se trouve être la deuxième phase de développement.
-La première étant été le développement des fonctionnalitées de jeu, de gestion de cadeaux, de mise à disposition d'informations concernant les compétitions, les matches, les classements des équipes, du classement des meilleurs joueurs et d'une page réservée à l'actualité du football. La gestion administrateur à été simplifié avec l'utilisation d'API ainsi que la gestion automatique de fichiers, des données colectées, des gains des joueurs, des newsletters, et des cadeaux.
-Ce site est en ligne et disponible à cette l'url ([EasyBetMe](https://www.easybet.me)), mais il s'agit de la version initial.
-Le développement de fonctionnalité au mépris du refactoring à justement la vocation d'avoir un site fonctionnel en vue de pouvoir acquérir le ressenti des utilisateurs.
-
-La phase deux en cours est l'objet du travail de refactoring complet du site **EasyBetMe** sur ces points qui me sont essentiels :
-- Tâche cron : peut effectuer la gestion de fichiers supplémentaire, effectuer la mise à jour de la base de donnée, et filtrer les données récupérer d'API pour éviter une trop grande masse de stockage.
-- Pages de style : travail sur le style pour épurer le style de la première version.
-- Interaction : éviter des pages trop longue à lire par la mise en place d'une gestion d'affichage.
-- Architecture : mise en place d'une architecture de type MVC pour amélioré l'utilisation de composant rebondant.
+Pour l'instant je me forme en système et réseaux mais aussi sur de nombreux autes projets.
 
 Je suis de même un grand admirateur de robotique  donc je m'aventure sur quelque projet personel de se côté (Lidar, bras articulé, motorisation, ...) ainsi que les microcontrôleurs comme Arduino, ESP32, ESP8266, XIAO, etc ....
 
-D'autres petits travaux ont été rendu pour des associations comme :
+D'autres petits travaux ont été rendu pour des associations ou entreprise comme :
 - Questionnaire - Association Caritas - HTML,CSS,JS,PHP,SQL
 - Gestion administrative - Génération Mouvement 68 - HTML,CSS,JS
-
-Un challenge nommé EPICUR fait comme je l'entendais est un petit diaporama accompagné par de la musique faisant paraître photos, logos, mais aussi des scènes animées en CSS présentant la formation 4.0 de l'UHA.
+- EasyBetMe - MonWebPro - HTML,CSS,JS,PHP,SQL
 
 Puis des projet personnel comme :
 - Website : Délices de nos rivières
 - Jeu : Survivor
+- Mini diapo de pésentation : Epicur Persolo
 
 Etant féru d'informatique depuis sa découverte j'ai aussi pu acquérir de l'expérience au travers de formation :
 - [CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) : webmestre junior
@@ -39,9 +30,11 @@ Et bien sûr pour rester en forme sur les languages informatiques :
 - [RootMe](https://www.root-me.org/)
 - [Netacad](https://www.netacad.com/)
 
-*La technologie a énormément évolué et s'est répandue dans toutes les sphères de la société, s'intégrant aux mœurs et traversant les générations. On la retrouve aujourd'hui dans toutes les disciplines. Après que la robotique a remplacé l'homme dans de nombreuses fonctions physiques, c’est désormais à l’intelligence artificielle d’opérer son propre nivellement, cette fois sur le plan cognitif....*
+***La technologie a énormément évolué et s'est répandue dans toutes les sphères de la société, s'intégrant aux mœurs et traversant les générations. On la retrouve aujourd'hui dans toutes les disciplines. Après que la robotique a remplacé l'homme dans de nombreuses fonctions physiques, c’est désormais à l’intelligence artificielle d’opérer son propre nivellement, cette fois sur le plan cognitif....***
 
-En freelance, je me maintient dans la profession en produisant pour des particuliers, associations, et sur mes divers projets persos, mais aussi en accompagnant un fablab' qui recelle de projet dans lesquelles il est possible de pouvoir y mettre du sien :
+Auto-entrepreneur, je me maintient dans la profession en produisant pour des particuliers, associations, et sur mes divers projets persos, mais aussi en accompagnant un fablab' qui recelle de projet dans lesquelles il est possible de pouvoir y mettre du sien :
 - MakerFight
+
+Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via mon site pour que nous puissions échanger et construire ensemble votre projet numérique.
 - Photobooth
 
