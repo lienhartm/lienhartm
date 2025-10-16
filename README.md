@@ -38,9 +38,10 @@ Et bien sûr pour rester en forme sur les languages informatiques :
 
 ***La technologie a énormément évolué et s'est répandue dans toutes les sphères de la société, s'intégrant aux mœurs et traversant les générations. On la retrouve aujourd'hui dans toutes les disciplines. Après que la robotique a remplacé l'homme dans de nombreuses fonctions physiques, c’est désormais à l’intelligence artificielle d’opérer son propre nivellement, cette fois sur le plan cognitif....***
 
-Auto-entrepreneur, je me maintient dans la profession en produisant pour des particuliers, associations, et sur mes divers projets persos, mais aussi en accompagnant un fablab' qui recelle de projet dans lesquelles il est possible de pouvoir y mettre du sien :
-- MakerFight
+Bénévole j'accompagne des association qui recelle de projet dans lesquelles il est possible de pouvoir y mettre du sien :
+- MakerFight - FabLab' Technistub
+- Spectacle - Le Boat
+- Yes
 
 Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via mon site pour que nous puissions échanger et construire ensemble votre projet numérique.
-- Photobooth
 
