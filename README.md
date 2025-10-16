@@ -6,13 +6,19 @@ Je suis de même un grand admirateur de robotique  donc je m'aventure sur quelqu
 
 D'autres petits travaux ont été rendu pour des associations ou entreprise comme :
 - Questionnaire - Association Caritas - HTML,CSS,JS,PHP,SQL
+- CRM - Design Concept - HTML,CSS,JS,REACT,Svelt,C++,SQL
+- Suivi Evenement Sportif - Hopla Cup - HTML,CSS,JS,PHP,SQL
+- Gestion locative - Cavalons - HTML,CSS,JS,Go,PostgreSQL
 - Gestion administrative - Génération Mouvement 68 - HTML,CSS,JS
 - EasyBetMe - MonWebPro - HTML,CSS,JS,PHP,SQL
 
 Puis des projet personnel comme :
-- Website : Délices de nos rivières
-- Jeu : Survivor
-- Mini diapo de pésentation : Epicur Persolo
+- Website : Délices de nos rivières - HTML,CSS,JS
+- Website : BasketBall - HTML,CSS,JS,REACT,PHP,SQL
+- Jeu : MasterMind - Java Spring Boot, H2O
+- Cloud : BlocNote - HTML,CSS,JS,REACT,MongoDB
+- Jeu : Survivor - HTML,CSS,JS
+- Mini diapo de pésentation : Epicur Persolo - HTML,CSS,JS
 
 Etant féru d'informatique depuis sa découverte j'ai aussi pu acquérir de l'expérience au travers de formation :
 - [CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) : webmestre junior
