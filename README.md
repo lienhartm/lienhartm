@@ -18,7 +18,10 @@ Puis des projet personnel comme :
 - Jeu : MasterMind - Java Spring Boot, H2O
 - Cloud : BlocNote - HTML,CSS,JS,REACT,MongoDB
 - Jeu : Survivor - HTML,CSS,JS
-- Mini diapo de pésentation : Epicur Persolo - HTML,CSS,JS
+- Mini diapo auto de pésentation : Epicur Persolo - HTML,CSS,JS
+
+Des projets FabLab' au Technistub :
+- PhotoBooth
 
 Etant féru d'informatique depuis sa découverte j'ai aussi pu acquérir de l'expérience au travers de formation :
 - [CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) : webmestre junior
