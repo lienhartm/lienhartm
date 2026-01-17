@@ -22,6 +22,7 @@ Puis des projet personnel comme :
 
 Des projets FabLab' au Technistub :
 - PhotoBooth
+- Makerfight
 
 Etant féru d'informatique depuis sa découverte j'ai aussi pu acquérir de l'expérience au travers de formation :
 - [CNAM](https://www.cnam.fr/portail/conservatoire-national-des-arts-et-metiers-accueil-821166.kjsp) : webmestre junior
