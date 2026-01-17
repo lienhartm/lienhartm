@@ -37,6 +37,7 @@ Et bien sûr pour rester en forme sur les languages informatiques :
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [Sololearn](https://www.sololearn.com/fr/)
 - [Mimo](https://mimo.org/)
+- [Coddy](https://coddy.tech/)
 - [RootMe](https://www.root-me.org/)
 - [Netacad](https://www.netacad.com/)
 
