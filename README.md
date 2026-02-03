@@ -1,4 +1,4 @@
-Bonjour voivi mon profil qui permet de me présenter, vous pouvez aussi vous rendre sur mon blog de présentation [#](https://lienhartm.github.io/Website/)
+Bonjour voivi mon profil qui permet de me présenter, vous pouvez aussi vous rendre sur [mon blog de présentation](https://lienhartm.github.io/Website/).
 
 Pour l'instant je me forme en système et réseaux mais aussi sur de nombreux autes projets.
 
