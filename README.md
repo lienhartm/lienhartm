@@ -1,8 +1,6 @@
 Bonjour voivi mon profil qui permet de me présenter, vous pouvez aussi vous rendre sur [mon blog de présentation](https://lienhartm.github.io/Website/).
 
-Pour l'instant je me forme en système et réseaux mais aussi sur de nombreux autes projets.
-
-Je suis de même un grand admirateur de robotique  donc je m'aventure sur quelque projet personel de se côté (Lidar, bras articulé, motorisation, ...) ainsi que les microcontrôleurs comme Arduino, ESP32, ESP8266, XIAO, etc ....
+Voici un étal de mon investissement en autodidacte, de de mes petits projets perso, mais également des projets porté en avant...
 
 D'autres petits travaux ont été rendu pour des associations ou entreprise comme :
 - Questionnaire - Association Caritas - HTML,CSS,JS,PHP,SQL
