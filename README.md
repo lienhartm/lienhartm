@@ -7,6 +7,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 - [Mon blog de présentation](https://lienhartm.github.io/LM/).
 
+
 ### Projets réalisés pour des associations et entreprises :
 
 - **Questionnaire - Association Caritas** - HTML,CSS,JS,PHP,SQL
@@ -17,6 +18,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - **Gamification - EasyBetMe** - HTML,CSS,JS,PHP,SQL
 - **Gestion locative - InsoliteSPA68** - HTML,CSS,JS,PHP,SQL
 
+
 ### Puis des projet personnel comme :
 
 - **Website : Délices de nos rivières** - HTML,CSS,JS
@@ -26,10 +28,12 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - **Jeu : Survivor** - HTML,CSS,JS
 - **Mini diapo auto de pésentation : Epicur** ***Persolo*** - HTML,CSS,JS
 
+
 ### Des projets FabLab' au sein du [Technistub](https://technistub.org/) :
 
 - PhotoBooth
 - Makerfight
+
 
 ### Les formations :
 
@@ -38,6 +42,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - [FABLAB](https://technistub.org/) : projets, impression 3D, DAO, ...
 - [ELAN](https://elan-formation.fr/accueil) : développement web et web mobile
 - [STUDI](https://www.studi.com/fr) : graduate technicien supérieur système, réseaux et cybersécurité
+
 
 ### Veille et perfectionnement continu :
 
@@ -50,7 +55,8 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - [RootMe](https://www.root-me.org/)
 - [Netacad](https://www.netacad.com/)
 
-**Engagement bénévole :**
+
+### Engagement bénévole :
 
 - MakerFight / FabLab' Technistub
 - Caritatif - Caritas
