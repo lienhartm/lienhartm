@@ -3,20 +3,34 @@ Bonjour voivi mon profil qui permet de me présenter, vous pouvez aussi vous ren
 Voici un étal de mon investissement en autodidacte, de de mes petits projets perso, mais également des projets porté en avant...
 
 D'autres petits travaux ont été rendu pour des associations ou entreprise comme :
-- Questionnaire - Association Caritas - HTML,CSS,JS,PHP,SQL
-- CRM - Design Concept - HTML,CSS,JS,REACT,Svelt,C++,SQL
-- Suivi Evenement Sportif - Hopla Cup - HTML,CSS,JS,PHP,SQL
-- Gestion locative - Cavalons - HTML,CSS,JS,Go,PostgreSQL
-- Gestion administrative - Génération Mouvement 68 - HTML,CSS,JS
-- EasyBetMe - MonWebPro - HTML,CSS,JS,PHP,SQL
+- **Questionnaire - Association Caritas**
+   HTML,CSS,JS,PHP,SQL
+- **CRM - Design Concept**
+   HTML,CSS,JS,REACT,Svelt,C++,SQL
+- **Suivi Evenement Sportif - Hopla Cup**
+   HTML,CSS,JS,PHP,SQL
+- **Gestion locative - Cavalons**
+   HTML,CSS,JS,Go,PostgreSQL
+- **Gestion administrative - Génération Mouvement 68**
+   HTML,CSS,JS
+- **Gamification - EasyBetMe**
+   HTML,CSS,JS,PHP,SQL
+- **Gestion locative - InsoliteSPA68**
+   HTML,CSS,JS,PHP,SQL
 
 Puis des projet personnel comme :
-- Website : Délices de nos rivières - HTML,CSS,JS
-- Website : BasketBall - HTML,CSS,JS,REACT,PHP,SQL
-- Jeu : MasterMind - Java Spring Boot, H2O
-- Cloud : BlocNote - HTML,CSS,JS,REACT,MongoDB
-- Jeu : Survivor - HTML,CSS,JS
-- Mini diapo auto de pésentation : Epicur Persolo - HTML,CSS,JS
+- **Website : Délices de nos rivières**
+   HTML,CSS,JS
+- **Website : BasketBall**
+   HTML,CSS,JS,REACT,PHP,SQL
+- **Jeu : MasterMind**
+   Java Spring Boot, H2O
+- **Cloud : BlocNote**
+   HTML,CSS,JS,REACT,MongoDB
+- **Jeu : Survivor**
+   HTML,CSS,JS
+- **Mini diapo auto de pésentation : Epicur *Persolo* **
+   HTML,CSS,JS
 
 Des projets FabLab' au Technistub :
 - PhotoBooth
