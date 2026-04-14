@@ -7,6 +7,8 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 <!-- 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 -->
 - [Mon blog de présentation](https://lienhartm.github.io/lm/).
 
+- ![Top Langs](https://github-readme-stats-lienhartm.vercel.app/api/top-langs/?username=lienhartm&layout=compact)
+
 ---
 
 ### Language 
