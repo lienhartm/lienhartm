@@ -73,22 +73,22 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ---
 
-<div>
+<div style="display:inline;">
   <img src="Rank.svg" alt="rank github" />
-  <img src="top-langs" alt="top langs github" />
+  <img src="top-langs.svg" alt="top langs github" />
 </div>
-
-![Stats_Repos_GitHub](Rank.svg)
-
----
-
-![Lang_Repos_GitHub](top-langs.svg)
 
 ---
 
 <!--
 URL top_langs : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30
 
+![Stats_Repos_GitHub](Rank.svg)
+
+
 URL ranks : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage
+
+![Lang_Repos_GitHub](top-langs.svg)
+
 -->
 
