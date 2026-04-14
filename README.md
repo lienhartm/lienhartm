@@ -73,7 +73,7 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ---
 
-<div style="display:inline;">
+<div style="display:flex;">
   <div style="display:flex;flex-direction:column;">
     <p>GitHub</p>
     <img src="Rank.svg" alt="rank github" />
