@@ -75,14 +75,19 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ![Stats_Repos_GitHub](Rank.svg)
 
+![Stats_Repos_GitHub](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&token=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)
+
 ---
 
-![Lan_Repos_GitHub](top-langs.svg)
+![Lang_Repos_GitHub](top-langs.svg)
+
+![Lang_Repos_GitHub](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30&token=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)
 
 ---
 
 <!--
-URL top_langs : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30
-URL ranks : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage
+URL top_langs : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30&token=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
+
+URL ranks : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&token=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
 -->
 
