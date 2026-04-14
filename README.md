@@ -9,6 +9,12 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ---
 
+### Language 
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lienhartm&layout=compact)
+
+---
+
 ### Projets réalisés pour des associations et entreprises :
 
 - **Questionnaire - Association Caritas**
@@ -69,10 +75,6 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - Caritatif - Caritas
 
 ---
-
-### Language 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lienhartm&layout=compact)
 
 Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via mon site pour que nous puissions échanger et construire ensemble votre projet numérique.
 
