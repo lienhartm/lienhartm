@@ -4,7 +4,7 @@ Bonjour et bienvenue,
 
 Voici un aperçu de mon parcours et de mes réalisations.
 Vous pouvez également consulter mon blog de présentation pour découvrir plus en détail mon univers et mes projets.
-
+<!-- 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 -->
 - [Mon blog de présentation](https://lienhartm.github.io/lm/).
 
 ---
