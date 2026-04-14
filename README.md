@@ -72,7 +72,12 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via mon site pour que nous puissions échanger et construire ensemble votre projet numérique.
 
 ---
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 <div style="display:flex;">
   <div style="display:flex;flex-direction:column;">
     <p>GitHub</p>
@@ -80,7 +85,8 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
   </div>
   <img src="top-langs.svg" alt="top langs github" width="200px" height="auto"/>
 </div>
-
+</body>
+</html>
 ---
 
 <!--
