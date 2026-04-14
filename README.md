@@ -11,24 +11,25 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ### Projets réalisés pour des associations et entreprises :
 
-- **Questionnaire - Association Caritas** - HTML,CSS,JS,PHP,SQL
-- **CRM - Design Concept** - HTML,CSS,JS,REACT,Svelt,C++,SQL
-- **Suivi Evenement Sportif - Hopla Cup** - HTML,CSS,JS,PHP,SQL
-- **Gestion locative - Cavalons** - HTML,CSS,JS,Go,PostgreSQL
-- **Gestion administrative - Génération Mouvement 68** - HTML,CSS,JS
-- **Gamification - EasyBetMe** - HTML,CSS,JS,PHP,SQL
-- **Gestion locative - InsoliteSPA68** - HTML,CSS,JS,PHP,SQL
+- **Questionnaire - Association Caritas**
+- **CRM - Design Concept**
+- **Suivi Evenement Sportif - Hopla Cup**
+- **Gestion locative - Cavalons**
+- **Gestion administrative - Génération Mouvement 68**
+- **Gamification - EasyBetMe**
+- **Gestion locative - InsoliteSPA68**
+- **Website - Ski Club de Guebwiller**
 
 ---
 
 ### Puis des projet personnel comme :
 
-- **Website : Délices de nos rivières** - HTML,CSS,JS
-- **Website : BasketBall** - HTML,CSS,JS,REACT,PHP,SQL
-- **Jeu : MasterMind** - Java Spring Boot, H2O
-- **Cloud : BlocNote** - HTML,CSS,JS,REACT,MongoDB
-- **Jeu : Survivor** - HTML,CSS,JS
-- **Mini diapo auto de pésentation : Epicur** ***Persolo*** - HTML,CSS,JS
+- **Website : Délices de nos rivières**
+- **Website : BasketBall**
+- **Jeu : MasterMind**
+- **Cloud : BlocNote**
+- **Jeu : Survivor**
+- **Mini diapo auto de pésentation : Epicur** ***Persolo***
 
 ---
 
@@ -69,6 +70,11 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ---
 
+### Language 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lienhartm&layout=compact)
+
 Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via mon site pour que nous puissions échanger et construire ensemble votre projet numérique.
+
 
 
