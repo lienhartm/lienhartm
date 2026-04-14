@@ -8,11 +8,11 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ---
 
-![Stats_Repos_GitHub](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&v=1)
+![Stats_Repos_GitHub](Rank.svg)
 
 ---
 
-![Lan_Repos_GitHub](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30&v=1)
+![Lan_Repos_GitHub](top-langs.svg)
 
 ---
 
