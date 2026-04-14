@@ -73,6 +73,11 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ---
 
+<div>
+  <img src="Rank.svg" alt="rank github" />
+  <img src="top-langs" alt="top langs github" />
+</div>
+
 ![Stats_Repos_GitHub](Rank.svg)
 
 ---
