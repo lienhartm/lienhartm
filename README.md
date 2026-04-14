@@ -75,9 +75,9 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ### GITHUB README STATS
 
-![Stats_Repos_GitHub](ranks.svg)
+<img alt='Stats_Repos_GitHub' src='ranks.svg' width='200px' height='auto' />
 <br />
-![Lang_Repos_GitHub](langs.svg)
+<img alt='Langs_Repos_GitHub' src='langs.svg' width='200px' height='auto' />
 
 ---
 
