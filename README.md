@@ -72,21 +72,12 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via mon site pour que nous puissions échanger et construire ensemble votre projet numérique.
 
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-<div style="display:flex;">
-  <div style="display:flex;flex-direction:column;">
-    <p style="text-decoration:underline;font-weight:bold;font-size:24px;text-align:center;">GitHub</p>
-    <img src="Rank.svg" alt="rank github" width="200px" height="auto"/>
-  </div>
-  <img src="top-langs.svg" alt="top langs github" width="200px" height="auto"/>
-</div>
-</body>
-</html>
+
+### GITHUB README STATS
+
+![Stats_Repos_GitHub](ranks.svg)
+![Lang_Repos_GitHub](langs.svg)
+
 ---
 
 <!--
