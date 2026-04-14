@@ -8,7 +8,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ---
 
-![Stats](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top_Langs]([https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show_icons=true&theme=radical](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=10))
 
 ![Top Langs](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact)
 
