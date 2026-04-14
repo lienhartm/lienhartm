@@ -80,7 +80,7 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 <body>
 <div style="display:flex;">
   <div style="display:flex;flex-direction:column;">
-    <p>GitHub</p>
+    <p style="text-decoration:underline;font-weight:bold;font-size:24px;text-align:center;">GitHub</p>
     <img src="Rank.svg" alt="rank github" width="200px" height="auto"/>
   </div>
   <img src="top-langs.svg" alt="top langs github" width="200px" height="auto"/>
