@@ -12,7 +12,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ---
 
-![Top Langs]([[https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=10)](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=10))
+![Lan_Repos_GitHub](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30)
 
 ---
 
