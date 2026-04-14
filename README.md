@@ -8,14 +8,6 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ---
 
-![Stats_Repos_GitHub](Rank.svg)
-
----
-
-![Lan_Repos_GitHub](top-langs.svg)
-
----
-
 ### Projets réalisés pour des associations et entreprises :
 
 - **Questionnaire - Association Caritas**
@@ -79,5 +71,13 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via mon site pour que nous puissions échanger et construire ensemble votre projet numérique.
 
+---
 
+![Stats_Repos_GitHub](Rank.svg)
+
+---
+
+![Lan_Repos_GitHub](top-langs.svg)
+
+---
 
