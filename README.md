@@ -8,7 +8,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ---
 
-![GitHub Stats](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show_icons=true)
+![Stats_Repos_GitHub](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
 
 ---
 
