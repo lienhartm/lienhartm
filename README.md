@@ -1,3 +1,5 @@
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="michael-lienhart-139344276" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/michael-lienhart-139344276?trk=profile-badge">Michael Lienhart</a></div>
+
 ## Présentation
 
 Bonjour et bienvenue,
