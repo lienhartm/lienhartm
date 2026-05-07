@@ -4,6 +4,7 @@ Bonjour et bienvenue,
 
 Voici un aperçu de mon parcours et de mes réalisations.
 Vous pouvez également consulter mon blog de présentation pour découvrir plus en détail mon univers et mes projets.
+- [Mon curriculum vitae]()
 - [Mon blog de présentation](https://lienhartm.github.io/lm/).
 - [Mon profil linkedin](https://fr.linkedin.com/in/michael-lienhart-139344276?trk=profile-badge)
 - [GitHub README Stats](#GITHUB-README-STATS)
