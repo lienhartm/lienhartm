@@ -87,24 +87,24 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 ---
 
 Profil Github
-![](https://img.shields.io/github/stars/{lienhartm})
-![](https://img.shields.io/github/forks/{lienhartm})
-![](https://img.shields.io/github/followers/{lienhartm})
-![](https://img.shields.io/github/following/{lienhartm})
+![](https://img.shields.io/github/stars/lienhartm)
+![](https://img.shields.io/github/forks/lienhartm)
+![](https://img.shields.io/github/followers/lienhartm)
+![](https://img.shields.io/github/following/lienhartm)
 
 Repos blog
-![](https://img.shields.io/github/stars/{lienhartm}/{lienhartm})
-![](https://img.shields.io/github/watchers/{lienhartm}/{lienhartm})
+![](https://img.shields.io/github/stars/lienhartm/lienhartm)
+![](https://img.shields.io/github/watchers/lienhartm/lienhartm)
 
-![](https://img.shields.io/github/repo-size/{lienhartm}/{lienhartm})
-![](https://img.shields.io/github/license/{lienhartm}/{lienhartm})
-![](https://img.shields.io/github/last-commit/{lienhartm}/{lienhartm})
+![](https://img.shields.io/github/repo-size/lienhartm/lienhartm)
+![](https://img.shields.io/github/license/lienhartm/lienhartm)
+![](https://img.shields.io/github/last-commit/lienhartm/lienhartm)
 
-![](https://img.shields.io/github/languages/top/{lienhartm}/{lienhartm})
-![](https://img.shields.io/github/languages/count/{lienhartm}/{lienhartm})
+![](https://img.shields.io/github/languages/top/lienhartm/lienhartm)
+![](https://img.shields.io/github/languages/count/lienhartm/lienhartm)
 
-![](https://img.shields.io/github/v/release/{lienhartm}/{lienhartm})
-![](https://img.shields.io/github/downloads/{lienhartm}/{lienhartm}/total)
+![](https://img.shields.io/github/v/release/lienhartm/lienhartm)
+![](https://img.shields.io/github/downloads/lienhartm/lienhartm/total)
 
 
 Repos website
