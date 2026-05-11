@@ -88,9 +88,7 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 Profil Github
 ![](https://img.shields.io/github/stars/lienhartm)
-![](https://img.shields.io/github/forks/lienhartm)
 ![](https://img.shields.io/github/followers/lienhartm)
-![](https://img.shields.io/github/following/lienhartm)
 
 Repos blog
 ![](https://img.shields.io/github/stars/lienhartm/lienhartm)
@@ -99,13 +97,6 @@ Repos blog
 ![](https://img.shields.io/github/repo-size/lienhartm/lienhartm)
 ![](https://img.shields.io/github/license/lienhartm/lienhartm)
 ![](https://img.shields.io/github/last-commit/lienhartm/lienhartm)
-
-![](https://img.shields.io/github/languages/top/lienhartm/lienhartm)
-![](https://img.shields.io/github/languages/count/lienhartm/lienhartm)
-
-![](https://img.shields.io/github/v/release/lienhartm/lienhartm)
-![](https://img.shields.io/github/downloads/lienhartm/lienhartm/total)
-
 
 Repos website
 ![](https://img.shields.io/github/stars/lienhartm/lm)
@@ -117,6 +108,3 @@ Repos website
 
 ![](https://img.shields.io/github/languages/top/lienhartm/lm)
 ![](https://img.shields.io/github/languages/count/lienhartm/lm)
-
-![](https://img.shields.io/github/v/release/lienhartm/lm)
-![](https://img.shields.io/github/downloads/lienhartm/lm/total)
