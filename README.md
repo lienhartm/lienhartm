@@ -82,6 +82,10 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lienhartm&layout=compact&langs_count=30)
 
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lienhartm&theme=github_dark)
+
 <!--
 <img alt='Ranks_Repos_GitHub' src='ranks.svg' width='400px' height='auto' />
 <br />
