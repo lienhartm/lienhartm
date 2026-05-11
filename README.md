@@ -65,6 +65,14 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![](https://img.shields.io/badge/Linux-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+![](https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge)
+![](https://img.shields.io/badge/PortSwigger-1A1A1A?style=for-the-badge&logo=burpsuite&logoColor=white)
+![](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
+![](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 
 ---
 
