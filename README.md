@@ -88,10 +88,10 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ![](https://img.shields.io/github/watchers/lienhartm/lienhartm)
 ![](https://img.shields.io/github/repo-size/lienhartm/lienhartm)
-![GitHub stars](https://img.shields.io/github/stars/lienhartm/lienhartm?style=social)
+![](https://img.shields.io/github/stars/lienhartm/lienhartm?style=social)
 ![](https://img.shields.io/github/languages/top/lienhartm/lienhartm)
 
 ![](https://img.shields.io/github/watchers/lienhartm/lm)
 ![](https://img.shields.io/github/repo-size/lienhartm/lm)
-![GitHub stars](https://img.shields.io/github/stars/lienhartm/lm?style=social)
+![](https://img.shields.io/github/stars/lienhartm/lm?style=social)
 ![](https://img.shields.io/github/languages/top/lienhartm/lm)
