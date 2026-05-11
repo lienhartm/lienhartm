@@ -78,6 +78,9 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ### GITHUB README STATS
 
+![](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30)
+![](https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
+
 <img alt='Ranks_Repos_GitHub' src='ranks.svg' width='400px' height='auto' />
 <br />
 <img alt='Langs_Repos_GitHub' src='langs.svg' width='400px' height='auto' />
