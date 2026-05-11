@@ -63,12 +63,24 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - [RootMe](https://www.root-me.org/)
 - [Netacad](https://www.netacad.com/)
 
+![](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
+![](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)
+![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![](https://img.shields.io/badge/Sololearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)
+![](https://img.shields.io/badge/Mimo-2D2D2D?style=for-the-badge)
+![](https://img.shields.io/badge/Coddy-FF6B6B?style=for-the-badge)
+![](https://img.shields.io/badge/RootMe-2C3E50?style=for-the-badge&logo=rootme&logoColor=white)
+![](https://img.shields.io/badge/NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Linux_Foundation_Training-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+
+
 ---
 
 ### Engagement bénévole :
 
 - FabLab' - MakerFight / Technistub
-- Caritatif - Caritas
+- Caritas
 
 ---
 
