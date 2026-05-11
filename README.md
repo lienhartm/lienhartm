@@ -108,15 +108,15 @@ Repos blog
 
 
 Repos website
-https://img.shields.io/github/stars/{lienhartm}/{lm}
-https://img.shields.io/github/watchers/{lienhartm}/{lm}
+![](https://img.shields.io/github/stars/lienhartm/lm)
+![](https://img.shields.io/github/watchers/lienhartm/lm)
 
-https://img.shields.io/github/repo-size/{lienhartm}/{lm}
-https://img.shields.io/github/license/{lienhartm}/{lm}
-https://img.shields.io/github/last-commit/{lienhartm}/{lm}
+![](https://img.shields.io/github/repo-size/lienhartm/lm)
+![](https://img.shields.io/github/license/lienhartm/lm)
+![](https://img.shields.io/github/last-commit/lienhartm/lm)
 
-https://img.shields.io/github/languages/top/{lienhartm}/{lm}
-https://img.shields.io/github/languages/count/{lienhartm}/{lm}
+![](https://img.shields.io/github/languages/top/lienhartm/lm)
+![](https://img.shields.io/github/languages/count/lienhartm/lm)
 
-https://img.shields.io/github/v/release/{lienhartm}/{lm}
-https://img.shields.io/github/downloads/{lienhartm}/{lm}/total
+![](https://img.shields.io/github/v/release/lienhartm/lm)
+![](https://img.shields.io/github/downloads/lienhartm/lm/total)
