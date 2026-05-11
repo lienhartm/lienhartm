@@ -85,9 +85,13 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 ![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ---
-
+![](https://img.shields.io/github/forks/lienhartm/lienhartm)
+https://img.shields.io/github/watchers/lienhartm/lienhartm
+https://img.shields.io/github/repo-size/lienhartm/lienhartm
+https://img.shields.io/github/issues/lienhartm/lienhartm
+https://img.shields.io/github/issues-pr/lienhartm/lienhartm
 ![GitHub stars](https://img.shields.io/github/stars/lienhartm/lienhartm?style=social)
 
-![](https://cdn.simpleicons.org/react/61DAFB)
+![](https://img.shields.io/github/languages/count/lienhartm/lienhartm)
 
 
