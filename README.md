@@ -84,13 +84,11 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 ![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
----
-
-Profil Github
+#### Profil Github
 ![](https://img.shields.io/github/stars/lienhartm)
 ![](https://img.shields.io/github/followers/lienhartm)
 
-Repos blog
+#### Repos blog
 ![](https://img.shields.io/github/stars/lienhartm/lienhartm)
 ![](https://img.shields.io/github/watchers/lienhartm/lienhartm)
 
@@ -98,7 +96,7 @@ Repos blog
 ![](https://img.shields.io/github/license/lienhartm/lienhartm)
 ![](https://img.shields.io/github/last-commit/lienhartm/lienhartm)
 
-Repos website
+#### Repos website
 ![](https://img.shields.io/github/stars/lienhartm/lm)
 ![](https://img.shields.io/github/watchers/lienhartm/lm)
 
