@@ -64,7 +64,6 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![](https://img.shields.io/badge/Linux-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
