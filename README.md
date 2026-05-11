@@ -88,6 +88,8 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ---
 
+![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
 <!--
 URL top_langs : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30
 
