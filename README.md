@@ -82,7 +82,7 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lienhartm&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lienhartm&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lienhartm&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lienhartm&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lienhartm&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lienhartm&theme=github_dark&utcOffset=1)
 
