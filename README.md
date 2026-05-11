@@ -78,19 +78,14 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ### GITHUB README STATS
 
-![](https://github-readme-stats.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lienhartm&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lienhartm&layout=compact&langs_count=30)
-
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lienhartm&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lienhartm&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lienhartm&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lienhartm&theme=github_dark&utcOffset=1)
 
-<!--
-<img alt='Ranks_Repos_GitHub' src='ranks.svg' width='400px' height='auto' />
-<br />
-<img alt='Langs_Repos_GitHub' src='langs.svg' width='400px' height='auto' />
--->
 ---
 
 <!--
