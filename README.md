@@ -54,15 +54,6 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 ### Veille et perfectionnement continu :
 
-- [W3School](https://www.w3schools.com/)
-- [CodeCademy](https://www.codecademy.com/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Sololearn](https://www.sololearn.com/fr/)
-- [Mimo](https://mimo.org/)
-- [Coddy](https://coddy.tech/)
-- [RootMe](https://www.root-me.org/)
-- [Netacad](https://www.netacad.com/)
-
 ![](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)
 ![](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)
 ![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
@@ -73,7 +64,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![](https://img.shields.io/badge/Linux-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)
-
+![](https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
