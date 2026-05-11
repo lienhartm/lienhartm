@@ -78,27 +78,10 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ### GITHUB README STATS
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lienhartm&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lienhartm&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lienhartm&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lienhartm&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lienhartm&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lienhartm&theme=github_dark&utcOffset=1)
+![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/3-stats.svg)
+![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ---
-
-![](https://raw.githubusercontent.com/lienhartm/lienhartm/main/profile-summary-card-output/github_dark/0-profile-details.svg)
-
-<!--
-URL top_langs : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api/top-langs?username=lienhartm&count_private=true&layout=compact&langs_count=30
-
-![Stats_Repos_GitHub](Rank.svg)
-
-
-URL ranks : https://github-readme-stats-9q6fyhj7z-lienhartm-7a55747f.vercel.app/api?username=lienhartm&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage
-
-![Lang_Repos_GitHub](top-langs.svg)
-
--->
-
