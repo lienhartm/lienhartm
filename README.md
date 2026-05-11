@@ -108,3 +108,10 @@ Repos website
 
 ![](https://img.shields.io/github/languages/top/lienhartm/lm)
 ![](https://img.shields.io/github/languages/count/lienhartm/lm)
+
+![W3C HTML](https://img.shields.io/w3c-validation/html?targetUrl=https://lienhartm.github.io/lm/)
+![W3C CSS](https://img.shields.io/w3c-validation/css?targetUrl=https://lienhartm.github.io/lm/)
+
+
+
+
