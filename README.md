@@ -86,12 +86,37 @@ Toujours prêt a vous soutenir dans vos ambitions, vous pouvez me contactez via 
 
 ---
 
-![](https://img.shields.io/github/watchers/lienhartm/lienhartm)
-![](https://img.shields.io/github/repo-size/lienhartm/lienhartm)
-![](https://img.shields.io/github/stars/lienhartm/lienhartm?style=social)
-![](https://img.shields.io/github/languages/top/lienhartm/lienhartm)
+Profil Github
+![](https://img.shields.io/github/stars/{lienhartm})
+![](https://img.shields.io/github/forks/{lienhartm})
+![](https://img.shields.io/github/followers/{lienhartm})
+![](https://img.shields.io/github/following/{lienhartm})
 
-![](https://img.shields.io/github/watchers/lienhartm/lm)
-![](https://img.shields.io/github/repo-size/lienhartm/lm)
-![](https://img.shields.io/github/stars/lienhartm/lm?style=social)
-![](https://img.shields.io/github/languages/top/lienhartm/lm)
+Repos blog
+![](https://img.shields.io/github/stars/{lienhartm}/{lienhartm})
+![](https://img.shields.io/github/watchers/{lienhartm}/{lienhartm})
+
+![](https://img.shields.io/github/repo-size/{lienhartm}/{lienhartm})
+![](https://img.shields.io/github/license/{lienhartm}/{lienhartm})
+![](https://img.shields.io/github/last-commit/{lienhartm}/{lienhartm})
+
+![](https://img.shields.io/github/languages/top/{lienhartm}/{lienhartm})
+![](https://img.shields.io/github/languages/count/{lienhartm}/{lienhartm})
+
+![](https://img.shields.io/github/v/release/{lienhartm}/{lienhartm})
+![](https://img.shields.io/github/downloads/{lienhartm}/{lienhartm}/total)
+
+
+Repos website
+https://img.shields.io/github/stars/{lienhartm}/{lm}
+https://img.shields.io/github/watchers/{lienhartm}/{lm}
+
+https://img.shields.io/github/repo-size/{lienhartm}/{lm}
+https://img.shields.io/github/license/{lienhartm}/{lm}
+https://img.shields.io/github/last-commit/{lienhartm}/{lm}
+
+https://img.shields.io/github/languages/top/{lienhartm}/{lm}
+https://img.shields.io/github/languages/count/{lienhartm}/{lm}
+
+https://img.shields.io/github/v/release/{lienhartm}/{lm}
+https://img.shields.io/github/downloads/{lienhartm}/{lm}/total
