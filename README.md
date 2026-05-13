@@ -7,6 +7,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - [Mon curriculum vitae](./cv_lienhart_michael.pdf)
 - [Mon blog de présentation](https://lienhartm.github.io/lm/)
 - [Mon profil linkedin](https://fr.linkedin.com/in/michael-lienhart-139344276?trk=profile-badge)
+- [Mon profil w3school](https://www.w3profile.com/SmartGuru24/)
 - [GitHub README Stats](#GITHUB-README-STATS)
 
 ---
