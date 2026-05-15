@@ -107,6 +107,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![](https://img.shields.io/badge/XML-0060A9?style=for-the-badge&logo=xml&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge)
