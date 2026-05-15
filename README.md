@@ -74,11 +74,67 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
 ![](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+
+### Microcontrôleurs et hardware :
+
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-2C2C2C?style=for-the-badge&logo=espressif&logoColor=white)
 ![](https://img.shields.io/badge/Microchip-ED1C24?style=for-the-badge&logo=microchip&logoColor=white)
+
+### Systèmes d'exploitation :
+
+![](https://img.shields.io/badge/Linux-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Windows%20Server-68217A?style=for-the-badge&logo=windowsserver&logoColor=white)
+
+---
+
+### Langages et frameworks :
+
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![](https://img.shields.io/badge/Symfony-000000?style=for-the-badge\&logo=symfony\&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+![](https://img.shields.io/badge/Canvas-FF6A00?style=for-the-badge)
+![](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge)
+![](https://img.shields.io/badge/Mermaid-FF3E00?style=for-the-badge)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
+![](https://img.shields.io/badge/TeX-008080?style=for-the-badge\&logo=latex\&logoColor=white)
+![](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![](https://img.shields.io/badge/Batch-000000?style=for-the-badge)
+![](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge\&logo=powershell\&logoColor=white)
+![](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge)
+![](https://img.shields.io/badge/SaaS-FF3E00?style=for-the-badge)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
+![](https://img.shields.io/badge/Numpy-013243?style=for-the-badge)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
 ---
 
 ### Les réseaux sociaux :
