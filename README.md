@@ -78,8 +78,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-2C2C2C?style=for-the-badge&logo=espressif&logoColor=white)
-![](https://img.shields.io/badge/Microchip%20MU-ED1C24?style=for-the-badge&logo=microchip&logoColor=white)
-
+![](https://img.shields.io/badge/Microchip-ED1C24?style=for-the-badge&logo=microchip&logoColor=white)
 ---
 
 ### Les réseaux sociaux :
