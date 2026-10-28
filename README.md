@@ -40,7 +40,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 
 - PhotoBooth
 - Makerfight
-- Divers projet en Mécatronique
+- ...
 
 ---
 
