@@ -75,6 +75,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
 ![](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
+![](https://img.shields.io/badge/cod%C3%A9dex-FFFF00?style=for-the-badge)
 
 ### Microcontrôleurs et hardware :
 
