@@ -1,3 +1,5 @@
+![https://pin.it/36MhIrUCM][img]
+
 ## Présentation
 
 Bonjour et bienvenue,
