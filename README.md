@@ -1,7 +1,7 @@
 <div align="center">
-<!-- Bannière (Remplacez le lien par le chemin vers votre image bannière sur GitHub, ex: ./assets/banniere.png) -->
-<!-- <img src="image_d9253c22.jpg" alt="Bannière WebSite LM" width="100%" /> -->
+  <img src="image_d9253c22.jpg" alt="Bannière WebSite LM" width="100%" />
 </div>
+
 
 ## Présentation
 
