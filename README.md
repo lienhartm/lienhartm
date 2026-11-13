@@ -1,4 +1,8 @@
-![https://pin.it/36MhIrUCM][img]
+<div align="center">
+
+<!-- Bannière (Remplacez le lien par le chemin vers votre image bannière sur GitHub, ex: ./assets/banniere.png) -->
+<!-- <img src="./banniere-website-lm.png" alt="Bannière WebSite LM" width="100%" /> -->
+</div>
 
 ## Présentation
 
