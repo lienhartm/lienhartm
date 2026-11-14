@@ -37,7 +37,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - **Jeu : MasterMind**
 - **Cloud : BlocNote**
 - [**Jeu : Survivor**](https://lienhartm.github.io/Survivor/)
-- **Mini diapo auto de pésentation : Epicur** ***Persolo***
+- [**Mini diapo auto de pésentation : Epicur** ***Persolo***](https://lienhartm.github.io/EPICUR/)
 
 ---
 
