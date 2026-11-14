@@ -24,7 +24,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - **Suivi Evenement Sportif - Hopla Cup**
 - **Gestion locative - Cavalons**
 - **Gestion administrative - Génération Mouvement 68**
-- **Gamification - EasyBetMe**
+- [**Gamification - EasyBetMe**]()
 - **Gestion locative - InsoliteSPA68**
 - [**Website - Ski Club de Guebwiller**](https://lienhartm.github.io/skdf/)
 
