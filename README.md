@@ -23,7 +23,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 - **CRM - Design Concept**
 - **Suivi Evenement Sportif - Hopla Cup**
 - **Gestion locative - Cavalons**
-- **Gestion administrative - Génération Mouvement 68**
+- [**Gestion administrative - Génération Mouvement 68**](https://lienhartm.github.io/GM68/)
 - [**Gamification - EasyBetMe**](https://lienhartm.github.io/MemoireLicence/)
 - **Gestion locative - InsoliteSPA68**
 - [**Website - Ski Club de Guebwiller**](https://lienhartm.github.io/skdf/)
