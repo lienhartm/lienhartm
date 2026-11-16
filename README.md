@@ -123,7 +123,7 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge)
 ![](https://img.shields.io/badge/Mermaid-FF3E00?style=for-the-badge)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
-![](https://img.shields.io/badge/TeX-008080?style=for-the-badge\&logo=latex\&logoColor=white)
+![](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![](https://img.shields.io/badge/JSON-000000?style=for-the-badge)
 ![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 ![](https://img.shields.io/badge/Batch-000000?style=for-the-badge)
@@ -146,7 +146,6 @@ Vous pouvez également consulter mon blog de présentation pour découvrir plus 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
